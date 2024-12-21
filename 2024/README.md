@@ -1,0 +1,1 @@
+Link for 2024 edition: https://adventofcode.com/2024
